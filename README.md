@@ -13,7 +13,7 @@ This repository contains classes that serve as solutions to various problems rel
 
 To use the solutions in this repository, follow these steps:
 
-1. Clone the repository using `git clone https://github.com/your-username/DBPairTest.git`
+1. Clone the repository using `https://github.com/Coderville12/DBPairTest.git`
 2. Navigate to the cloned repository using `cd DBPairTest`
 3. Explore the classes and their implementations for each problem
 
